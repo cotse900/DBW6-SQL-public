@@ -1,0 +1,34 @@
+place,population,lat,lon
+St. John's (N.L.),208.4,47.5605413, -52.71283150000001
+Halifax (N.S.),408.7,44.6488625, -63.5753196
+Moncton (N.B.)[1],144.9,46.1013902, -64.8213793
+Saint John (N.B.),127.9,45.2733153, -66.0633081
+Saguenay, 160.2,48.4280529, -71.0684923
+Quebec (Que.),791.9,46.8273212, -71.2349247
+Sherbrooke (Que.),210,45.4009928, -71.8824288
+Trois Rivieres Quebec,155,46.3432397, -72.5432834
+Montreal (Que.),"3981.80",45.491577, -73.64106699999999
+Ottawa-Gatineau (Ont.-Que.),"1305.20",45.4215296, -75.69719309999999
+Kingston Ontario,167.2,44.2311717, -76.4859544
+Peterborough (Ont.)[1],123.1,44.3320104, -78.4431001
+Oshawa Ontario,380,43.8970929, -78.86579119999999
+Toronto Ontario,"5959.50",43.653226, -79.3831843
+Hamilton Ontario,758.1,43.25002080000001, -79.8660914
+St. Catharines-Niagara (Ont.),405,43.1593745, -79.2468626
+Kitchener-Waterloo (Ont.),504.3,43.45, -80.483333
+Brantford Ontario, 141.3,43.1393867, -80.2644254
+Guelph Ontario,150.3,43.5448048, -80.2481665999999
+London Ontario,498.6,42.9869502, -81.243177
+Windsor Ontario,333.1,42.3153,-83.0157013
+Barrie Ontario,197.8,44.3893013,-79.6862564
+Greater Sudbury Ontario,165.5,46.4895897,-80.9901123
+Thunder Bay Ontario,125.1,48.381691,-89.2454987
+Winnipeg Manitoba,771.2,52.148941,-97.7184601
+Regina (Sask.),232.1,50.4660988,-104.6269989
+Saskatoon (Sask.),292.6,52.1072998,-106.6350021
+Calgary Alberta,1364.80,51.0452194,-114.0630188
+Edmonton Alberta,"1289.60",53.4538002,-113.5090027
+Kelowna British Columbia,186.3,49.8809013,-119.4430008
+Abbotsford BC,177.5,49.0502014,-122.288002
+Vancouver British Columbia,"2443.30",49.2811012,-123.0439987
+Victoria British Columbia,357.3,48.4389,-123.3960037
