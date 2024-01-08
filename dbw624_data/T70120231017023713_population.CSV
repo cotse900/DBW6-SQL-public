@@ -1,0 +1,63 @@
+"Geographic code","Geographic name","CD type","Province or territory","Incompletely enumerated Indian reserves and Indian settlements, 2016","Population, 2016","Population, 2011","2011 adjusted population flag","Population, % change","Total private dwellings, 2016","Private dwellings occupied by usual residents, 2016","Land area in square kilometres, 2016","Population density per square kilometre, 2016","National population rank, 2016","Provincial/territorial population rank, 2016"
+"01","Canada",,,T,35151728,33476688,F,5.0,15412443,14072079,8965588.85,3.9,,
+35,Ontario,,,T,13448494,12851821,F,4.6,5598391,5169174,908699.33,14.8,,
+"3520","Toronto",Census division (CDR),"Ontario",F,2731571,2615060,F,4.5,1179057,1112929,630.20,4334.4,1,1
+"3521","Peel",Regional municipality (RM),"Ontario",F,1381739,1296809,T,6.5,443918,430180,1246.95,1108.1,5,2
+"3519","York",Regional municipality (RM),"Ontario",F,1109909,1032524,F,7.5,369928,357084,1762.13,629.9,7,3
+"3506","Ottawa",Census division (CDR),"Ontario",F,934243,883391,F,5.8,395985,373756,2790.30,334.8,8,4
+"3518","Durham",Regional municipality (RM),"Ontario",F,645862,608124,F,6.2,233936,227906,2523.80,255.9,10,5
+"3524","Halton",Regional municipality (RM),"Ontario",F,548435,501674,T,9.3,198164,192977,964.05,568.9,12,6
+"3525","Hamilton",Census division (CDR),"Ontario",F,536917,519949,F,3.3,222918,211596,1117.29,480.6,13,7
+"3530","Waterloo",Regional municipality (RM),"Ontario",F,535154,507096,F,5.5,214299,203832,1368.92,390.9,14,8
+"3543","Simcoe",County (CTY),"Ontario",F,479650,446063,F,7.5,206549,183536,4859.64,98.7,15,9
+"3539","Middlesex",County (CTY),"Ontario",T,455526,439151,F,3.7,203349,190045,3317.27,137.3,16,10
+"3526","Niagara",Regional municipality (RM),"Ontario",F,447888,431346,F,3.8,196241,183828,1854.23,241.5,17,11
+"3537","Essex",County (CTY),"Ontario",F,398953,388782,F,2.6,168569,159053,1850.90,215.5,21,12
+"3523","Wellington",County (CTY),"Ontario",F,222726,208360,F,6.9,90846,85281,2660.57,83.7,28,13
+"3553","Greater Sudbury",Census division (CDR),"Ontario",F,161647,160376,F,0.8,75103,69200,3239.02,49.9,34,14
+"3510","Frontenac",County (CTY),"Ontario",F,150475,149753,T,0.5,77155,64295,3787.76,39.7,40,15
+"3558","Thunder Bay",District (DIS),"Ontario",F,146048,146057,F,0.0,72551,62999,103722.82,1.4,43,16
+"3515","Peterborough",County (CTY),"Ontario",F,138236,134928,T,2.5,70551,57743,3848.20,35.9,45,17
+"3512","Hastings",County (CTY),"Ontario",F,136445,134934,F,1.1,65136,57017,6103.92,22.4,46,18
+"3529","Brant",Census division (CDR),"Ontario",T,134808,136035,F,-0.9,54626,52722,1093.22,123.3,47,19
+"3538","Lambton",County (CTY),"Ontario",F,126638,126199,F,0.3,59777,54481,3002.25,42.2,50,20
+"3557","Algoma",District (DIS),"Ontario",T,114094,115870,F,-1.5,60324,51071,48814.88,2.3,55,21
+"3501","Stormont, Dundas and Glengarry",United counties (UC),"Ontario",F,113429,111164,F,2.0,50455,47829,3309.87,34.3,56,22
+"3532","Oxford",County (CTY),"Ontario",F,110862,105719,F,4.9,45350,44266,2039.61,54.4,57,23
+"3528","Haldimand-Norfolk",Census division (CDR),"Ontario",T,109787,109118,F,0.6,48249,43559,2894.76,37.9,58,24
+"3547","Renfrew",County (CTY),"Ontario",F,102394,101326,F,1.1,49860,42779,7448.57,13.7,60,25
+"3536","Chatham-Kent",Census division (CDR),"Ontario",F,102042,104075,F,-2.0,46287,43174,2470.52,41.3,61,26
+"3507","Leeds and Grenville",United counties (UC),"Ontario",F,100546,99306,F,1.2,48226,42749,3382.89,29.7,62,27
+"3542","Grey",County (CTY),"Ontario",F,93830,92568,F,1.4,47560,39563,4513.50,20.8,68,28
+"3502","Prescott and Russell",United counties (UC),"Ontario",F,89333,85381,F,4.6,36783,35389,2004.47,44.6,69,29
+"3534","Elgin",County (CTY),"Ontario",F,88978,87461,F,1.7,36613,34995,1881.03,47.3,70,30
+"3514","Northumberland",County (CTY),"Ontario",F,85598,82126,F,4.2,39032,35686,1905.15,44.9,74,31
+"3548","Nipissing",District (DIS),"Ontario",F,83150,84736,F,-1.9,41200,36050,17103.78,4.9,77,32
+"3556","Cochrane",District (DIS),"Ontario",F,79682,81122,F,-1.8,37974,34012,141268.51,0.6,81,33
+"3531","Perth",County (CTY),"Ontario",F,76796,75112,F,2.2,31747,30713,2218.52,34.6,84,34
+"3516","Kawartha Lakes",Census division (CDR),"Ontario",F,75423,73219,T,3.0,38444,31106,3084.38,24.5,86,35
+"3509","Lanark",County (CTY),"Ontario",F,68698,65667,F,4.6,32695,28580,3035.64,22.6,93,36
+"3541","Bruce",County (CTY),"Ontario",F,68147,66102,F,3.1,41183,28866,4090.20,16.7,94,37
+"3560","Kenora",District (DIS),"Ontario",T,65533,57607,F,13.8,31191,23931,407268.65,0.2,98,38
+"3522","Dufferin",County (CTY),"Ontario",F,61735,56881,F,8.5,22889,21918,1486.44,41.5,102,39
+"3544","Muskoka",District municipality (DM),"Ontario",T,60599,58017,T,4.5,46207,25431,3940.48,15.4,105,40
+"3540","Huron",County (CTY),"Ontario",F,59297,59100,F,0.3,28369,24194,3399.27,17.4,108,41
+"3511","Lennox and Addington",County (CTY),"Ontario",F,42888,41809,T,2.6,19684,17053,2839.68,15.1,137,42
+"3549","Parry Sound",District (DIS),"Ontario",F,42824,42162,F,1.6,35226,18679,9326.48,4.6,138,43
+"3554","Timiskaming",District (DIS),"Ontario",F,32251,32634,F,-1.2,16862,14395,13303.30,2.4,169,44
+"3513","Prince Edward",Census division (CDR),"Ontario",F,24735,25258,F,-2.1,12899,10728,1050.49,23.5,191,45
+"3552","Sudbury",District (DIS),"Ontario",F,21546,21196,F,1.7,12557,9375,40204.77,0.5,209,46
+"3559","Rainy River",District (DIS),"Ontario",F,20110,20370,F,-1.3,11217,8432,15486.75,1.3,221,47
+"3546","Haliburton",County (CTY),"Ontario",F,18062,17056,T,5.9,21113,8443,4076.08,4.4,234,48
+"3551","Manitoulin",District (DIS),"Ontario",F,13255,13048,F,1.6,9537,5748,3107.23,4.3,258,49
+
+Note:
+"Incompletely enumerated Indian reserves and Indian settlements, 2016","T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"2011 adjusted population flag","T = adjusted figure due to boundary change."
+"For further information, refer to: http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/About.cfm."
+
+"Source: Statistics Canada, 2016 Census of Population."
+"How to cite: Statistics Canada. 2017. Population and dwelling counts, for Canada, provinces and territories, and census divisions, 2016 and 2011 censuses (table). Population and Dwelling Count Highlight Tables. 2016 Census."
+"Statistics Canada Catalogue no. 98-402-X2016001. Ottawa. Released February 8, 2017."
+"http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Tables/File.cfm?T=701&SR=1&RPP=9999&PR=35&CMA=0&CSD=0&S=3&O=D&Lang=Eng&OFT=CSV (accessed October 17, 2023)"
+
